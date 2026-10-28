@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**9** solved · 9 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-10-28 | [solution](problems/0100-implement-the-softsign-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-10-28 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-10-27 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-10-28 | [solution](problems/0024-single-neuron) |
 
 ---
 

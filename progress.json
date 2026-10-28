@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:46:04.888Z",
+  "generated_at": "2026-10-28T08:35:15.416Z",
   "items": {
     "problem:56": {
       "kind": "problem",
@@ -104,6 +104,19 @@
       "last_pushed_at": "2026-10-28T07:46:04.232Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-10-28T08:35:14.659Z",
+      "last_pushed_at": "2026-10-28T08:35:14.659Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
