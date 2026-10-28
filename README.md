@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 7 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-10-28 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
+| [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-10-28 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-10-27 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-10-27 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-10-27 | [solution](problems/0099-implement-the-softplus-activation-function) |
